@@ -1,7 +1,5 @@
 <?php
-$age = 20;
-$test = "テスト";
-echo $age."/n";
-echo $test;
+$a = "Hello!";
+echo $a;
 ?>
 
